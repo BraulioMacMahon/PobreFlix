@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45150629219",
+    "project_id": "pobreflix-5ec7f",
+    "storage_bucket": "pobreflix-5ec7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45150629219:android:b2f8628eb98dbc6520f756",
+        "android_client_info": {
+          "package_name": "com.example.pobreflix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUfdmNMKp0f9ZDIErhLYNFniRkziETO_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
