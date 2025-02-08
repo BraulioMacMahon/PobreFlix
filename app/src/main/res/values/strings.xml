@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PobreFlix</string>
+    <string name="seja_bem_vindo">SEJA BEM-VINDO</string>
+    <string name="descricao_welcome">Desfruta da maior plataforma para recomendação de filmes e series.</string>
+    <string name="comecar">Começar</string>
+    <string name="vingadores">Em 2018, 23 dias após Thanos ter eliminado metade de toda a vida no universo, Carol Danvers resgata a nave de Tony Stark e Nebulosa perdida no espaço. Eles se reúnem com os Vingadores restantes — Bruce Banner, Steve Rogers, Thor, Natasha Romanoff e James Rhodes — e Rocket na Terra. Localizando Thanos em um planeta desabitado, eles planejam usar as Joias do Infinito para reverter suas ações, mas descobrem que Thanos já as destruiu a fim de impedir que fossem usadas novamente. Enfurecido, Thor decapita Thanos.</string>
+    <string name="home">Home</string>
+    <string name="categorias">Categorias</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="defini_es">Definições</string>
+    <string name="vingadores_ultimato">Vingadores Ultimato</string>
+    <string name="abril_de_2019">Abril de 2019</string>
+    <string name="indisponivel">Indisponivel</string>
+
+    <string name="text">Hello, Android</string>
+    <string name="email_icon">Email icon</string>
+    <string name="icon_password">Icon Password</string>
+    <string name="login">Login</string>
+    <string name="Create_Acount">Create acount</string>
+    <string name="create_acount">Create acount</string>
+    <string name="i_have_an_account">I have an account</string>
+    <string name="enter_with_envited">Enter with envited</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="all_rigths_reserved">All Rigths Reserved</string>
+</resources>
